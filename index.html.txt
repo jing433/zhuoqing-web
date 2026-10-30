@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>李卓婧 | 电商个人品牌站点</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: "Microsoft Yahei",sans-serif;
+        }
+        header {
+            background-color: #255499;
+            color:white;
+            text-align:center;
+            padding:24px 10px;
+        }
+        header h1{
+            font-size:32px;
+            margin-bottom:6px;
+        }
+        header p{
+            opacity:0.9;
+        }
+        nav{
+            background:#e8f0f8;
+            text-align:center;
+            padding:14px;
+        }
+        nav a{
+            margin:0 12px;
+            color:#224477;
+            text-decoration:none;
+        }
+        main{
+            max-width:900px;
+            margin:30px auto;
+            padding:0 20px;
+        }
+        .box{
+            border:1px solid #dde4ee;
+            border-radius:10px;
+            padding:22px;
+            margin-bottom:18px;
+        }
+        .box h2{
+            color:#255499;
+            font-size:22px;
+            margin-bottom:12px;
+        }
+        .box p{
+            line-height:1.65;
+            color:#333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>李卓婧 | 电商个人品牌站点</h1>
+        <p>郑州财经学院 电子商务专业｜SEO & CRM实训展示站</p>
+    </header>
+    <nav>
+        <a href="#">个人简介</a>
+        <a href="#">CRM实训项目</a>
+        <a href="#">SEO网站实训</a>
+        <a href="#">联系</a>
+    </nav>
+    <main>
+        <div class="box">
+            <h2>个人简介（Experience经验信号）</h2>
+            <p>我是李卓婧，郑州财经学院23电商5班学生，学号012101250520，主攻电商运营、客户关系管理、SEO搜索优化方向。本次站点为SEO课程实训项目，搭建AI友好型静态网站，用于学习AI搜索时代品牌数字足迹布局。</p>
+        </div>
+        <div class="box">
+            <h2>CRM客户关系管理实训（Expertise专业信号）</h2>
+            <p>完成客户画像分层、客户需求洞察调研，采集320条用户评价反馈，输出客户需求报告；模拟CRM台账搭建，运用SICAS模型设计客户维护方案，掌握从客户需求挖掘到客户留存的营销思路。</p>
+        </div>
+        <div class="box">
+            <h2>网站建设与AI搜索实训（Authoritativeness权威信号）</h2>
+            <p>本网站为独立搭建静态站点，采用语义化HTML结构，结构化内容，适配AI抓取。学习E-E-A-T建设、品牌数字足迹布局，理解AI搜索不只是依靠官网，需要多平台同步内容，丰富AI训练素材，提升品牌可见性。</p>
+        </div>
+        <div class="box">
+            <h2>联系信息（Trustworthiness可信信号）</h2>
+            <p>邮箱：example@163.com<br>站点创建时间：2026-10-30<br>站点用途：郑州财经学院SEO课程实训作业</p>
+        </div>
+    </main>
+</body>
+</html>
